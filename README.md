@@ -1,4 +1,4 @@
-# div-columns
-Clone of the sega megadrive / genesis columns game made with div games studio
+# bgd2-columns
+Clone of the sega megadrive / genesis columns game port to Bennu Game Development 2
 
-http://js.mikedx.co.uk/columns.html
+original code http://js.mikedx.co.uk/columns.html
